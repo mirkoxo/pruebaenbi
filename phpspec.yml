@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: enbi
+        psr4_prefix: enbi
+        src_path: app
